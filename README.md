@@ -8,6 +8,6 @@ The Odin Project foundations course
 * Learn the basics of the command line
 * Learn the basics of JavaScript
 
-> This is a work in progress. If you have any suggestions, please open an issue or submit a pull request.
+> This is a work in progress. If you have any suggestions, please open an issue or submit a pull request 
 
 
